@@ -1,5 +1,5 @@
-# Code.sh-
-Script bash pour terminal Unix/Linux
+# Code.sh
+# Script bash pour terminal Unix/Linux
 
 $ sudo chmod +x auto-generate-pass.sh
 $ ./auto-generate-pass.sh
